@@ -1,0 +1,35 @@
+body
+{
+    background-color: rgb(233, 228, 228);
+}
+
+.centered-content
+{
+    padding: 3em;
+    background-color: white;
+    width: 20em;
+    height: 20em;
+    margin: 5em;
+    
+}
+
+.but
+{
+    color: white;
+    background-color: rgb(12, 1, 27);
+    width: 14em;
+    border-radius: 13px;
+    border: 0ch;
+}
+
+.picture
+{
+    display: block;
+    text-align: center;
+    padding-bottom: 3em;
+}
+
+.picture img
+{
+    border-color: white;
+}
