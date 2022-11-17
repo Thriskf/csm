@@ -1,12 +1,12 @@
 body
 {
-    background-color: #f9f6f1;
+    background-color: #f6f6fb;
 }
 
 .centered-content
 {
     padding: 3em;
-    background-color: white;
+    background-color: #ffff;
     width: 20em;
     height: 20em;
     margin: 5em;
@@ -18,7 +18,7 @@ body
 .but
 {
     color: white;
-    background-color: rgb(12, 1, 27);
+    background-color: rgb(14, 13, 13);
     width: 14em;
     border-radius: 13px;
     border: 0ch;
